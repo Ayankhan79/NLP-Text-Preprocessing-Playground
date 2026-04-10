@@ -39,8 +39,8 @@ An interactive **Streamlit web application** that allows users to upload text da
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nlp-preprocessing-playground.git
-cd nlp-preprocessing-playground
+git clone https://github.com/Ayankhan79/NLP-Text-Preprocessing-Playground.git
+cd NLP-Text-Preprocessing-Playground
 ```
 
 ### 2. Install dependencies
