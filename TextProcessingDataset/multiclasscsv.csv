@@ -1,0 +1,11 @@
+id,text,label
+1,"I absolutely love this product",positive
+2,"This is the worst experience ever",negative
+3,"It's okay, nothing special",neutral
+4,"Amazing performance and great quality",positive
+5,"Terrible support and slow response",negative
+6,"Not bad but could be better",neutral
+7,"I'm very happy with this purchase",positive
+8,"Waste of money",negative
+9,"Average experience overall",neutral
+10,"Exceeded my expectations!",positive
